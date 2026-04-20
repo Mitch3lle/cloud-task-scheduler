@@ -82,12 +82,8 @@ ________________________________________
 •	Scheduled data processing
 •	Personal productivity tracking
 ________________________________________
- Contributing
+ ## Contributing
 Contributions are welcome. Fork the repo and submit a pull request.
 ________________________________________
- License
+## License
 This project is licensed under the MIT License.
-________________________________________
- Final Note
-This project is a foundation, not a full cloud system. To move toward real cloud engineering, focus on improving reliability, scalability, and system design.
-
